@@ -1,1 +1,7 @@
 /.idea/
+Churn_Modelling.csv
+Churn_Modelling_simple.csv
+__pycache__/*
+classification_tree_api.iml
+templates/index.html
+test.html
